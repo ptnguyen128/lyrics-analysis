@@ -3,7 +3,7 @@
 You can read a detailed analysis of this project on my Medium post.
 
 ## Libraries
-If you haven't, you'd need to install `gensim`, `nltk' and `lyricsgenius` by executing these commands  
+If you haven't, you'd need to install `gensim`, `nltk` and `lyricsgenius` by executing these commands  
 `conda install -c conda-forge gensim`  
 `run sudo pip install -U nltk`  
 `pip install lyricsgenius`  
