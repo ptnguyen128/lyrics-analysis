@@ -1,6 +1,6 @@
 # Discovering Overarching Themes of Kpop Boy Band BTS Using Machine Learning  
 
-You can read a detailed analysis of this project on my Medium post.
+You can read a detailed analysis of this project on my [Medium post](https://medium.com/@nguy3409/discovering-overarching-themes-of-kpop-boy-band-bts-using-machine-learning-246c69115ac8).
 
 ## Libraries
 If you haven't, you'd need to install `gensim`, `nltk` and `lyricsgenius` by executing these commands  
