@@ -1,4 +1,4 @@
-# Discovering Overarching Themes of Kpop Boy Band BTS Using Machine Learning  
+# Discover Overarching Themes of Kpop Boy Band BTS With Machine Learning
 
 You can read a detailed analysis of this project on my [Medium post](https://medium.com/@nguy3409/discovering-overarching-themes-of-kpop-boy-band-bts-using-machine-learning-246c69115ac8).
 
